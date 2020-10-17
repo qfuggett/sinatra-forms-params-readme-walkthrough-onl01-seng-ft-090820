@@ -11,6 +11,6 @@ class App < Sinatra::Base
     "My name is #{params[:name]}, and I love #{params[:favorite_food]}"
   end
   
-  <form method="POST" action="/food">
+  #<form method="POST" action="/food">
 
 end
